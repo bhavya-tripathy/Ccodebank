@@ -1,3 +1,29 @@
+/*
+       Start
+         |
+   Display Menu
+         |
+   Input Choice
+         |
+   +-----+-----+
+   |           |
+Choice=5?     No
+   |           |
+  Yes          |
+   |           |
+ Print Exit    |
+   |           |
+   End     Choice=1?
+               |
+             Yes/No
+            ... (repeat for 2,3,4)
+               |
+          Invalid Choice
+               |
+           Back to Menu
+*/
+
+
 #include<stdio.h>
 #include <math.h>
 
